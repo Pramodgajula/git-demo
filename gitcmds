@@ -1,2 +1,7 @@
 git clone
 git branch -d feature_xxx
+
+
+git tag
+
+git log
